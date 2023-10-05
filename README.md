@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Country-Finder](https://pricey-93.github.io/country-finder/)
 
-- 🌱 I’m currently learning **CSS Modules**
+- 🌱 I’m currently learning **React-Router-DOM, CSS Modules**
 
 - 📫 How to reach me **danieljamiepricejp@gmail.com**
 
