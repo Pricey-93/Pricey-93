@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Country-Finder](https://pricey-93.github.io/country-finder/)
 
-- 🌱 I’m currently learning **Raylib in C and C++**
+- 🌱 I’m currently learning **C# & DotNet MVC**
 
 - 📫 How to reach me **danieljamiepricejp@gmail.com**
 
