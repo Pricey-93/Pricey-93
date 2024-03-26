@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan!</h1>
 <h3 align="center">A passionate Software Engineer with a background in Computer Science</h3>
 
-- 🔭 I’m currently working on [Country-Finder](https://pricey-93.github.io/country-finder/)
-
 - 🌱 I’m currently learning **C# & DotNet MVC**
 
 - 📫 How to reach me **danieljamieprice@gmail.com**
