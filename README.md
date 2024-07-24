@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dan!</h1>
-<h3 align="center">A passionate Software Engineer with a background in Computer Science</h3>
 
-- 🌱 I’m currently learning **C# & DotNet MVC**
-
-- 📫 How to reach me **danieljamieprice@gmail.com**
+- 🌱 I’m currently learning **C# & Blazor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
