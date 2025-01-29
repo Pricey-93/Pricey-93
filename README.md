@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dan!</h1>
+<ul>
+  <li>I'm a Software Developer based in the UK working in a .NET environment with SQL-Server, Entity Framework, and Blazor.</li>
+  <li>🌱 I’m currently learning **Blazor**.</li>
+</ul>
 
-- 🌱 I’m currently learning **Blazor** in .Net
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
