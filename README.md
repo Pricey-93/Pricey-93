@@ -1,9 +1,4 @@
 <h1 align="center">Hi 👋, I'm Dan!</h1>
-<p>
-  I'm a Software Developer based in the UK with experience in full-stack C# .NET applications as well as applications in the Node environment.
-  I'm familiar with frontend technologies such as Blazor, React, Vue, Svelte, Tailwind/Bootstrap and backend technologies such as SQL Server, PostgreSQL, EF Core, and Docker.
-</p>
-<p>I'm always looking to learn and to collaborate so feel free to reach out to me via my contact methods below.</p>
 
 ## Connect With Me
 <p align="left">
